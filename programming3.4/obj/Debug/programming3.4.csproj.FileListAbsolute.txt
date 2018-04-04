@@ -1,0 +1,12 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\definitionClass\programming3.4\bin\Debug\programming3.4.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\definitionClass\programming3.4\bin\Debug\programming3.4.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\definitionClass\programming3.4\bin\Debug\programming3.4.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\definitionClass\programming3.4\obj\Debug\programming3.4.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\definitionClass\programming3.4\obj\Debug\programming3.4.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\definitionClass\programming3.4\obj\Debug\programming3.4.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\programming3.4\bin\Debug\programming3.4.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\programming3.4\bin\Debug\programming3.4.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\programming3.4\bin\Debug\programming3.4.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\programming3.4\obj\Debug\programming3.4.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\programming3.4\obj\Debug\programming3.4.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\programming3.4\obj\Debug\programming3.4.pdb
