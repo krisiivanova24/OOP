@@ -1,0 +1,9 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\TestovKlient\obj\Debug\TestovKlient.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\TestovKlient\bin\Debug\TestovKlient.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\TestovKlient\bin\Debug\TestovKlient.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\TestovKlient\bin\Debug\TestovKlient.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\TestovKlient\bin\Debug\personAndBankAccount.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\TestovKlient\bin\Debug\personAndBankAccount.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\TestovKlient\bin\Debug\personAndBankAccount.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\TestovKlient\obj\Debug\TestovKlient.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\TestovKlient\obj\Debug\TestovKlient.pdb

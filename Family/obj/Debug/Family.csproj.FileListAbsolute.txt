@@ -1,0 +1,9 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\Family\obj\Debug\Family.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\Family\bin\Debug\Family.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\Family\bin\Debug\Family.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\Family\bin\Debug\Family.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\Family\bin\Debug\personAndBankAccount.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\Family\bin\Debug\personAndBankAccount.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\Family\bin\Debug\personAndBankAccount.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\Family\obj\Debug\Family.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\definitionClass\Family\obj\Debug\Family.pdb

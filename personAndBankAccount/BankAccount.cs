@@ -6,40 +6,56 @@ using System.Threading.Tasks;
 
 namespace personAndBankAccount
 {
-    class BankAccount
+    public class BankAccount
     {
         private int id;
         private double balance;
-       
 
-        public int ID {
+
+        public int ID
+        {
             get { return this.id; }
             set
             {
-                if (value < 0 )
+                if (value < 0)
                 {
                     Console.WriteLine("Inavlid ID!!!!");
                 }
-                this.id = value; }
+                this.id = value;
+            }
         }
-        public double Balance {
+        public double Balance
+        {
             get { return this.balance; }
-            set {
+            set
+            {
                 if (balance < 0)
                 {
                     Console.WriteLine("Inavlid balance!!!!");
                 }
-                this.balance = value; }
+                this.balance = value;
+            }
         }
-        public void Deposit(double sum) {
+        public void Deposit(double sum)
+        {
             this.Balance += sum;
         }
-        public void WithDraw(double sum) {
+        public void WithDraw(double sum)
+        {
             this.Balance -= sum;
         }
-        
-        public void Print() {
-            Console.WriteLine($"Your ID is {id}, your balance is {balance}");
+
+        public void Print()
+        {
+            Console.WriteLine($"Your ID is {this.ID}, your balance is {this.Balance}");
+        }
+        public BankAccount(int id)
+        {
+            this.ID = id;
+            this.Balance = 0;
+        }
+        public BankAccount() {
+
         }
     }
 }

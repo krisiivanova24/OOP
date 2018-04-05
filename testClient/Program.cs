@@ -24,12 +24,12 @@ namespace testClient
                         break;
                 }
                 case "Deposit": {
-                        int nomerSmetka = int.Parse(inputs[1]);
-                        double amount = double.Parse(inputs[2]);
-                        if (accounts.IndexOf(nomerSmetka) != -1)
-                        {
+                        ////int nomerSmetka = int.Parse(inputs[1]);
+                        //double amount = double.Parse(inputs[2]);
+                        //if (accounts.IndexOf(nomerSmetka) != -1)
+                        //{
 
-                        }
+                        //}
                         break;
                 }
             }

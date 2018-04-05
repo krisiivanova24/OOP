@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace personAndBankAccount
 {
-    class Person
+    public class Person
     {
         private string name;
         private int age;
         List<BankAccount> accounts = new List<BankAccount>();
-        
-        public List<BankAccount> Accounts {
+
+        public List<BankAccount> Accounts
+        {
             get { return this.accounts; }
             set { this.accounts = value; }
         }
@@ -27,13 +28,19 @@ namespace personAndBankAccount
         public void Introduce() {
             Console.WriteLine($"Name {name } - age {age}");
         }
-        public void ShowBalance() {
+        public void ShowBalance()
+        {
             double suma = 0;
-        for (int i = 0; i<this.Accounts.Count; i++)
-			{
+            for (int i = 0; i < this.Accounts.Count; i++)
+            {
                 suma += this.Accounts[i].Balance;
-			}
+            }
+
             Console.WriteLine($"Balance for {this.Name} is {suma:f2}");
+        }
+        public override string ToString()
+        {
+            return $"The person is {this.Name} and he/she is {this.Age} years old";
         }
     }
 }

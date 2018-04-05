@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace programming3._4
 {
-    class Person
+     class Person
     {
         //harakteristiki na klasa
         private string name;
         private int age=16 ;
-        private List<BankAccount> accounts = new List<BankAccount>();
+        private List<BankAccount> accounts ;
 
          public string Name {
             get { return this.name; }
@@ -23,7 +23,8 @@ namespace programming3._4
             set { this.age = value; }
         }
 
-        public List<BankAccount> Accounts {
+        public List<BankAccount> Accounts
+        {
             get { return this.accounts; }
             set { this.accounts = value; }
         }

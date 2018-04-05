@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\personAndBankAccount\personAndBankAccount.csproj">
+      <Project>{f219b844-2204-4f26-91b5-ac1eb54435a9}</Project>
+      <Name>personAndBankAccount</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
